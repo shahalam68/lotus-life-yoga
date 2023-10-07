@@ -24,7 +24,7 @@ const Hero = () => {
                         repeat={Infinity}
                     />
                     <h2 className='text-2xl font-poppins font-extralight my-3 text-inherit '>Do Yoga today for a better tomorrow</h2>
-                    <button className='bg-[#d291bc] px-4 py-2 rounded-3xl text-white'> 15 Free days </button>
+                    <button className='bg-[#d291bc] px-4 py-2 text-lg rounded-3xl text-white'> 15 Free days </button>
                 </div>
                 <div>
                     <img className='w-9/12' src={heroImg} alt="" />
