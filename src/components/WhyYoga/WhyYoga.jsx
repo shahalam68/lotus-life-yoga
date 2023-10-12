@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Header = () => {
+const WhyYoga = () => {
     return (
         <div>
-            
+            <h2>This is yoga</h2>
         </div>
     );
 };
 
-export default Header;
+export default WhyYoga;

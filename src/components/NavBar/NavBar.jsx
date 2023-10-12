@@ -7,7 +7,7 @@ const NavBar = () => {
     return (
         <div>
             <div className=' w-full  top-0 left-0'>
-                <div className='md:flex items-center justify-between bg-white py-4 md:px-10 px-7 bg-[#d291bc] bg-opacity-10'>
+                <div className='md:flex items-center justify-between  py-4 md:px-10 px-7 bg-[#d291bc] bg-opacity-10'>
                     <div>
                         <img className='w-20' src={logo} alt="" />
                     </div>
