@@ -9,7 +9,11 @@ export default {
       poppins: ["Poppins", "sans-serif"],
       adelia: ["ADELIA", "cursive"],
     },
-    extend: {},
+    extend: {
+      backgroundImage:{
+        'whyYoga':"url('./src/assets/why-img.jpg')"
+      }
+    },
   },
   plugins: [],
 }
